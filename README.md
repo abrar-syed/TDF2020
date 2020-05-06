@@ -1,2 +1,5 @@
 # TDF2020
-A smart cane built using Adafruit Express board along with integration of ultrasonic sesnors, neopixels and vibration motors
+
+## Presentation link :
+https://docs.google.com/presentation/d/13SdqRsL3zaBmS2zXhKbZ1SN9j9QBytqHJk2HbE3kM-8/edit?usp=sharing
+
